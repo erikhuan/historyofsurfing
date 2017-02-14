@@ -1,0 +1,22 @@
+body {
+  background-image: url("http://rocketpower2.free.fr/15im.JPG");
+}
+
+h1 {
+  text-align: center;
+  margin: 50px 20px 50px 20px;
+  color: White;
+  font-family: 'Barrio', sans-serif;
+}
+
+h2 {
+  color: White;
+  font-family: 'Bahiana', sans-serif;
+}
+
+img {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin: 20px 20px 20px 20px;
+}
